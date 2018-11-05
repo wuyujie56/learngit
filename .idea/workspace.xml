@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3686050a-675f-4ea6-a76a-4c4e80dd3f21" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
-    </list>
+    <list default="true" id="3686050a-675f-4ea6-a76a-4c4e80dd3f21" name="Default Changelist" comment="忽略.idea" />
     <ignored path=".idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +13,7 @@
     <session id="-2053819050">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.opened" value="2" />
         </counts>
@@ -68,7 +66,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="s" />
+        <entry key="$PROJECT_DIR$" value="test1" />
       </map>
     </option>
   </component>
@@ -163,7 +161,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3131000" />
+    <option name="totallyTimeSpent" value="3296000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -178,7 +176,7 @@
     <frame x="0" y="22" width="1680" height="976" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49913344" visible="true" weight="0.25274727" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49913344" visible="true" weight="0.25579977" />
       <window_info id="Structure" order="1" sideWeight="0.50086653" side_tool="true" weight="0.24969475" />
       <window_info id="Favorites" order="2" sideWeight="0.50086653" side_tool="true" weight="0.24969475" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -192,7 +190,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.495116" visible="true" weight="0.329849" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.497558" weight="0.329849" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.504884" side_tool="true" visible="true" weight="0.329849" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.503663" side_tool="true" visible="true" weight="0.329849" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
